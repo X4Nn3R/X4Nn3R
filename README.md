@@ -3,7 +3,7 @@
 
 - 📝 Publicaciones [https://doi.org/10.55767/2451.6007.v34.n2.39484](https://doi.org/10.55767/2451.6007.v34.n2.39484)
 
-- 📫 contáctame **alexriacos159@gmail.com**
+- 📫 Contáctame **alexriacos159@gmail.com**
 
 - ⚡ Hobbies **Viajar, Tocar timbales ...**
 
