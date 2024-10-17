@@ -1,11 +1,13 @@
 <h1 align="center">Hola 👋, soy Alexander Riascos</h1>
 <h3 align="center">Full Stack Desarrollador - Geofísico</h3>
 
-- 📝 Publicaciones [https://doi.org/10.55767/2451.6007.v34.n2.39484](https://doi.org/10.55767/2451.6007.v34.n2.39484)
+
 
 - 📫 Contáctame **alexriacos159@gmail.com**
 
 - ⚡ Hobbies **Viajar, Tocar timbales ...**
+  
+- 📝 Publicaciones [https://doi.org/10.55767/2451.6007.v34.n2.39484](https://doi.org/10.55767/2451.6007.v34.n2.39484)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
