@@ -9,7 +9,7 @@
   
 - 📝 Publicaciones [https://doi.org/10.55767/2451.6007.v34.n2.39484](https://doi.org/10.55767/2451.6007.v34.n2.39484)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
